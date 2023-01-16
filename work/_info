@@ -1,0 +1,110 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Technion/044252_Sifratiyot/sim3/sim3files
+vrv_ctl
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1673906828
+!i10b 1
+!s100 R6??>ijaSKde[1Jgm[Wb60
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Im]azlikUU8BS9[IYc8AHZ0
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1673906824
+8rv_ctl.sv
+Frv_ctl.sv
+Z5 Fparams.inc
+!i122 11
+L0 7 259
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1673906828.000000
+!s107 params.inc|rv_top.sv|rv_sim.sv|rv_dp.sv|rv_ctl.sv|
+Z8 !s90 -reportprogress|300|rv_ctl.sv|rv_dp.sv|rv_sim.sv|rv_top.sv|
+!i113 1
+Z9 tCvgOpt 0
+vrv_dp
+R1
+R2
+!i10b 1
+!s100 Q@L5GZzJiCezH7V8hT=fo3
+R3
+IW@IjMPIE0M0MDOSmio^9Y0
+R4
+S1
+R0
+w1673906819
+8rv_dp.sv
+Frv_dp.sv
+R5
+!i122 11
+L0 7 243
+R6
+r1
+!s85 0
+31
+R7
+Z10 !s107 params.inc|rv_top.sv|rv_sim.sv|rv_dp.sv|rv_ctl.sv|
+R8
+!i113 1
+R9
+vrv_sim
+R1
+R2
+!i10b 1
+!s100 iz;2m`@N<D<UFU5lVoTlk1
+R3
+IXUEYheoe@YDImAhkebgPk2
+R4
+S1
+R0
+w1673904510
+8rv_sim.sv
+Frv_sim.sv
+R5
+!i122 11
+L0 7 158
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
+vrv_top
+R1
+R2
+!i10b 1
+!s100 M8>llkh<GB2XcA`UF3Yb[0
+R3
+IVFkIMAk:Ofd;dOC[4=KIa2
+R4
+S1
+R0
+w1673904391
+8rv_top.sv
+Frv_top.sv
+!i122 11
+L0 8 102
+R6
+r1
+!s85 0
+31
+R7
+R10
+R8
+!i113 1
+R9
